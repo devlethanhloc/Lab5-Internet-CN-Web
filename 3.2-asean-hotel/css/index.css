@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/index-img/left.gif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.container {
+    margin-left: 25%;
+    margin-top: 3%;
+}
+
+.img img{
+    margin: -5px;
+    padding-left: 5px;
+    width: 700px;
+}
+
+.nav-bar-bottom {
+    background: rgb(180, 0, 0);
+    width: 700px;
+}
+
+.nav-bar-bottom marquee {
+    color: yellow;
+}
+
+.asean {
+    margin-top: -5px;
+    width: 700px;
+}
+
+.footer p {
+    margin-left: 200px;
+    font-size: 10px;
+}
+
+.footer p:nth-child(2) {
+    margin-top: -10px;
+    margin-left: 280px;
+}
+
+.animation {
+    transform: translateY(10px);
+}
